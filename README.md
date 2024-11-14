@@ -12,7 +12,7 @@ Por meio da análise dessa base, buscou-se identificar o perfil dos universitár
 
 Primeiramente, foi criado um novo banco de dados "StudentsDropout" no Azure Data Studio. Após o download do arquivo .csv da fonte de dados, foi realizada a importação para o banco de dados criado por meio da extensão SQL Server Import, conforme imagem abaixo.
 
-![image](https://github.com/user-attachments/assets/7adabe17-2216-4b40-8840-3ca67bb882fb)
+<img src="https://github.com/user-attachments/assets/7adabe17-2216-4b40-8840-3ca67bb882fb" alt="image" width="60%">
 
 Todas as consultas realizadas podem ser consultadas [aqui](https://github.com/laissapadilha/SQL-Evasao_de_Universitarios/blob/main/StudentsDropout.sql).
 
@@ -36,44 +36,44 @@ Ao todo, observa-se que há 1.421 estudantes na base que desistiram da graduaç�
 
 Com base no gênero, estado civil e idade média apenas dos desistentes, buscou-se identificar o perfil destes estudantes. Percebe-se que mais de 80% dos desistentes são solteiros, não havendo diferença relevante entre os gêneros e nem na idade média neste estado civil.
 
-![image](https://github.com/user-attachments/assets/45f6c0fa-085b-453b-91d9-62efb56e18ca)
+<img src="https://github.com/user-attachments/assets/45f6c0fa-085b-453b-91d9-62efb56e18ca" alt="image" width="50%">
 
 ## Taxa de evasão
 
 Ao realizar a comparação do total de estudantes desistentes com o total de matriculados, identifica-se que o percentual de evasão é de 32,12%. 
 
-![image](https://github.com/user-attachments/assets/4f805c3a-c6ce-4a8d-967f-0a1336d4d9ed)
+<img src="https://github.com/user-attachments/assets/4f805c3a-c6ce-4a8d-967f-0a1336d4d9ed" alt="image" width="60%">
 
-A seguir, serão avaliadas as taxas de evasão com base no gênero, estado civil...
+A seguir, as taxas de evasão serão avaliadas considerando gênero, estado civil, faixa etária, turno de estudo, curso, nacionalidade, atraso de mensalidade e presença de bolsa de estudos.
 
 ### Taxa de evasão por gênero
 
 Embora a quantidade de desistentes do gênero feminino seja maior do que do masculino, a diferença na taxa de evasão de estudantes do gênero masculino é superior em aproximadamente 20% quando comparamos com as estudantes do gênero feminino.
 
-![image](https://github.com/user-attachments/assets/01c26ab6-acc8-4a56-95bb-83fdb905454a)
+<img src="https://github.com/user-attachments/assets/01c26ab6-acc8-4a56-95bb-83fdb905454a" alt="image" width="60%">
 
 ### Taxa de evasão por estado civil
 
 Apesar dos solteiros somarem a maior quantidade de desistentes, quando é avaliado percentual de evasão, a taxa é de 30%, inferior aos aprovimadamente 67% para os legamente separados, 47% para os divorciados e 46% para os casados.
 
-![image](https://github.com/user-attachments/assets/8a94fd68-456b-4f80-a07b-d969e6565e6a)
+<img src="https://github.com/user-attachments/assets/8a94fd68-456b-4f80-a07b-d969e6565e6a" alt="image" width="60%">
 
 ### Taxa de evasão por faixa etária
 
-![image](https://github.com/user-attachments/assets/a68c3a2f-b35d-476b-96dc-a6ca29792ae3)
+<img src="https://github.com/user-attachments/assets/a68c3a2f-b35d-476b-96dc-a6ca29792ae3" alt="image" width="60%">
 
 ### Taxa de evasão por turno de estudo
 
-![image](https://github.com/user-attachments/assets/6b6f2b79-c074-43d0-b1b7-ab4f14b6a65e)
+<img src="https://github.com/user-attachments/assets/6b6f2b79-c074-43d0-b1b7-ab4f14b6a65e" alt="image" width="60%">
 
 ### Taxa de evasão por curso
 
-![image](https://github.com/user-attachments/assets/b2296648-4b22-4268-b4a1-3f69adf9eb80)
-![image](https://github.com/user-attachments/assets/4dbfe512-73d9-421d-a5a2-21582e87e307)
+<img src="https://github.com/user-attachments/assets/b2296648-4b22-4268-b4a1-3f69adf9eb80" alt="image" width="60%">
+<img src="https://github.com/user-attachments/assets/4dbfe512-73d9-421d-a5a2-21582e87e307" alt="image" width="60%">
 
 ### Taxa de evasão estudantes internacionais, com mensalidades atrasadas e com bolsa de estudos
 
-![image](https://github.com/user-attachments/assets/d38ad891-b435-4c06-bd9e-279bdcde73cd)
+<img src="https://github.com/user-attachments/assets/d38ad891-b435-4c06-bd9e-279bdcde73cd" alt="image" width="60%">
 
 ## Considerações Finais
 
