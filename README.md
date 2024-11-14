@@ -14,7 +14,7 @@ Primeiramente, foi criado um novo banco de dados "StudentsDropout" no Azure Data
 
 ![image](https://github.com/user-attachments/assets/7adabe17-2216-4b40-8840-3ca67bb882fb)
 
-Todas as consultas realizadas por ser consultadas neste arquivo.
+Todas as consultas realizadas podem ser consultadas [aqui](https://github.com/laissapadilha/SQL-Evasao_de_Universitarios/blob/main/StudentsDropout.sql).
 
 ## Dicionários das variáveis
 
