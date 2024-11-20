@@ -20,15 +20,15 @@ Todas as consultas realizadas podem ser consultadas [aqui](https://github.com/la
 
 Serão definidas a seguir apenas as variáveis utilizadas no estudo.
 
-- **Marital Status:** 1 – single 2 – married 3 – widower 4 – divorced 5 – facto union 6 – legally separated;
-- **Course:** 33 - Biofuel Production Technologies 171 - Animation and Multimedia Design 8014 - Social Service (evening attendance) 9003 - Agronomy 9070 - Communication Design 9085 - Veterinary Nursing 9119 - Informatics Engineering 9130 - Equinculture 9147 - Management 9238 - Social Service 9254 - Tourism 9500 - Nursing 9556 - Oral Hygiene 9670 - Advertising and Marketing Management 9773 - Journalism and Communication 9853 - Basic Education 9991 - Management (evening attendance);
-- **Daytime/evening attendance:** 1 – daytime 0 - evening;
-- **Tuition fees up to date:** 1 – yes 0 – no;
-- **Gender:** 1 – male 0 – female;
-- **Scholarship holder:** 1 – yes 0 – no;
-- **Age at enrollment:** Age of studend at enrollment;
-- **International:** 1 – yes 0 – no;
-- **Target:** Target. The problem is formulated as a three category classification task (dropout, enrolled, and graduate) at the end of the normal duration of the course.
+- **Marital Status (Estado Civil):** 1 – single (solteiro), 2 – married (casado), 3 – widower (viúvo),  4 – divorced (divorciado), 5 – facto union (união estável), 6 – legally separated (separado judicialmente);
+- **Course (Curso):** 33 - Biofuel Production Technologies, 171 - Animation and Multimedia Design, 8014 - Social Service (evening attendance), 9003 - Agronomy, 9070 - Communication Design, 9085 - Veterinary Nursing, 9119 - Informatics Engineering, 9130 - Equinculture, 9147 - Management, 9238 - Social Service, 9254 - Tourism, 9500 - Nursing, 9556 - Oral Hygiene, 9670 - Advertising and Marketing Management, 9773 - Journalism and Communication, 9853 - Basic Education, 9991 - Management (evening attendance);
+- **Daytime/evening attendance (Turno de estudo):** 1 – daytime (diurno), 0 - evening (noturno);
+- **Tuition fees up to date (Mensalidade em dia):** 1 – yes (sim), 0 – no (não);
+- **Gender (Gênero):** 1 – male (masculino), 0 – female (feminino);
+- **Scholarship holder (Bolsista):** 1 – yes (sim), 0 – no (não);
+- **Age at enrollment (Idade no momento da matrícula)**;
+- **International (Estudante estrangeiro):** 1 – yes (sim), 0 – no (não);
+- **Target:** classificação nas categorias dropout (evasão), enrolled (matriculado) e graduate (formado) ao final da duração normal do curso.
 
 ## Perfil dos estudantes que desistiram da graduação
 
@@ -60,20 +60,28 @@ Apesar dos solteiros somarem a maior quantidade de desistentes, quando é avalia
 
 ### Taxa de evasão por faixa etária
 
-<img src="https://github.com/user-attachments/assets/a68c3a2f-b35d-476b-96dc-a6ca29792ae3" alt="image" width="60%">
+A maior taxa de evasão está entre os estudandes na faixa etária entre 30-39 anos, onde quase 56% dos estudantes desistem da graduação.
+
+<img src="https://github.com/user-attachments/assets/d392d832-4c25-48d9-891b-d092357be1df" alt="image" width="60%">
 
 ### Taxa de evasão por turno de estudo
+
+Embora a maioria dos estudantes optem pelo período diurno, a maior taxa de evasão estão no período noturno, alcançando mais de 42% dos estudanters deste turno.
 
 <img src="https://github.com/user-attachments/assets/6b6f2b79-c074-43d0-b1b7-ab4f14b6a65e" alt="image" width="60%">
 
 ### Taxa de evasão por curso
 
+Dos 17 cursos avaliados, 4 deles apresentam uma taxa de evasão maior de 50%, sendo que o curso Biofuel Production Technologies (Tecnologias de Produção de Biocombustíveis) supera a taxa de 66% de evasão.
+
 <img src="https://github.com/user-attachments/assets/b2296648-4b22-4268-b4a1-3f69adf9eb80" alt="image" width="60%">
 <img src="https://github.com/user-attachments/assets/4dbfe512-73d9-421d-a5a2-21582e87e307" alt="image" width="60%">
 
-### Taxa de evasão estudantes internacionais, com mensalidades atrasadas e com bolsa de estudos
+### Taxa de evasão estudantes estrangeiros, com mensalidades atrasadas e com bolsa de estudos
 
-<img src="https://github.com/user-attachments/assets/d38ad891-b435-4c06-bd9e-279bdcde73cd" alt="image" width="60%">
+É possível identificar que a maior taxa de evasão está entre os estudantes não estrangeiros, que estão com as mensalidades atrasadas e não são bolsistas, atingindo 90% neste grupo,  seguida pelos estudantes estrangeiros que também estão com mensalidades atrasadas e não possuem bolsa, representado mais de 68%. A terceira posição é ocupada por estudantes não estrangeiros, com mensalidades atrasadas e bolsistas, com 62% de evasão.
+
+<img src="https://github.com/user-attachments/assets/15510a27-bc98-49b3-99da-b670712f5d88" alt="image" width="85%">
 
 ## Considerações Finais
 
