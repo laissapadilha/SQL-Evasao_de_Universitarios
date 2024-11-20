@@ -85,3 +85,12 @@ Dos 17 cursos avaliados, 4 deles apresentam uma taxa de evasão maior de 50%, se
 
 ## Considerações Finais
 
+A análise realizada revelou importantes insights sobre os fatores associados à evasão de estudantes em cursos de graduação. Com uma taxa geral de evasão de 32,12%, observa-se que diversos aspectos, como estado civil, faixa etária, turno de estudo, curso e condições socioeconômicas, influenciam significativamente as desistências. Cabe destacar os seguintes pontos:
+
+- A maior taxa de evasão está entre estudantes na faixa etária de 30-39 anos (quase 56%) e no turno noturno (42%), sugerindo que conciliar trabalho, vida pessoal e estudos pode ser um desafio significativo;
+- Em relação ao estado civil, os legalmente separados apresentaram a maior taxa de evasão (67%), indicando possíveis dificuldades em lidar com situações familiares e acadêmicas simultaneamente;
+- Cursos como **Biofuel Production Technologies** se destacaram negativamente, com mais de 66% de evasão, apontando para possíveis problemas estruturais ou desajuste entre expectativas e realidade;
+- Fatores financeiros têm forte impacto, sendo que estudantes com mensalidades atrasadas e sem bolsa de estudos estão entre os grupos mais vulneráveis, alcançando 90% de evasão em alguns casos.
+
+Esses resultados fornecem uma base sólida para desenvolver estratégias direcionadas à retenção de estudantes. Investir em apoio financeiro, ações específicas para estudantes mais velhos ou em turnos noturnos, e melhorias em cursos com altas taxas de evasão pode contribuir significativamente para reduzir o índice de desistências e promover maior sucesso acadêmico.
+
