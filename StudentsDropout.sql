@@ -187,4 +187,5 @@ GROUP BY
     Scholarship_holder,
     International
 ORDER BY 
-    Dropout_rate DESC
+    CAST(ROUND((CAST(COUNT(CASE WHEN target = 'Dropout' THEN 1 END) AS FLOAT) / 
+    COUNT(*)) * 100, 2) AS FLOAT) DESC
